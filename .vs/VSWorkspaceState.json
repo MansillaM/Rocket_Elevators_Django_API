@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Rocket_Elevators_Django_API\\quickstart",
-    "\\Rocket_Elevators_Django_API\\quickstart\\employee"
+    "\\Rocket_Elevators_Django_API",
+    "\\Rocket_Elevators_Django_API\\quickstart"
   ],
-  "SelectedNode": "\\Procfile",
+  "SelectedNode": "\\Rocket_Elevators_Django_API",
   "PreviewInSolutionExplorer": false
 }
