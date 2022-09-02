@@ -1,13 +1,14 @@
 # Rocket Elevators Django API
 
-##Dependencies:
--face recognition
--django frameworks
--cmake
--dlib
--gunicorn
+Dependencies:
 
-##How to use:
+  - face recognition
+  - django frameworks
+  - cmake
+  - dlib
+  - gunicorn
+
+How to use:
 
   Run locally or go on this website => https://rocket-elevators-django-api-py.herokuapp.com/
 
